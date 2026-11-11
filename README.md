@@ -1,5 +1,5 @@
 ### **Hey there** 👋
-Eu **Theneds Amorim**, cursando **Full Stack** 🎓 passionate about mobile, web, and desktop development. Currently, I specialize in **React Native** for cross-platform apps (Android & iOS) 📱.
+Eu **Theneds Amorim**, cursando **Full Stack** 🎓 Apaixonado por desenvolvimento mobile, web e desktop. Atualmente, especializo-me em **React Native** para aplicativos multiplataforma.(Android & iOS) 📱.
 
 Beyond coding, I’m also an **IT Instructor**, teaching tech skills and turning complex ideas into accessible solutions. Because technology is best when shared!
 
