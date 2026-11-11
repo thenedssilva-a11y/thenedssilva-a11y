@@ -1,7 +1,7 @@
 ### **Hey there** 👋
 Eu **Theneds Amorim**, cursando **Full Stack** 🎓 Apaixonado por desenvolvimento mobile, web e desktop. Atualmente, especializo-me em **React Native** para aplicativos multiplataforma.(Android & iOS) 📱.
 
-Beyond coding, I’m also an **IT Instructor**, teaching tech skills and turning complex ideas into accessible solutions. Because technology is best when shared!
+Além de programar, também atuo como instrutor de TI, ensinando habilidades tecnológicas e transformando ideias complexas em soluções acessíveis. Afinal, a tecnologia é melhor quando compartilhada.
 
 <hr/>
 🔧 **Technologies & Tools**
