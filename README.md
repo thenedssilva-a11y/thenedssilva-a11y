@@ -11,8 +11,6 @@ Além de programar, também atuo como instrutor de TI, ensinando habilidades tec
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,py,git,arch,cs,obsidian,php,postgres,spring,sublime,vscode)](https://skillicons.dev)
 
 
- | [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thenedssilva-a11y&theme=dracula&exclude=exclude)](https://github.com/thenedssilva-a11y/github-readme-stats)|  
- | ----------- | ----------- |  
 
 
 **Follow me on my social media:**
