@@ -1,17 +1,20 @@
-### **Hey there** 👋
-Eu **Theneds Amorim**, cursando **Full Stack** 🎓 Apaixonado por desenvolvimento mobile, web e desktop. Atualmente, especializo-me em **React Native** para aplicativos multiplataforma.(Android & iOS) 📱.
+### Olá, eu sou o Theneds Amorim! 👋
 
-Além de programar, também atuo como instrutor de TI, ensinando habilidades tecnológicas e transformando ideias complexas em soluções acessíveis. Afinal, a tecnologia é melhor quando compartilhada.
+Sou estudante de desenvolvimento de sistemas e um grande entusiasta de tecnologia, movido pela curiosidade de entender como as coisas funcionam por baixo dos panos e criar soluções práticas através do código.
 
-<hr/>
-🔧 **Technologies & Tools**
-<p>
-</p>
+Atualmente, estou focado em consolidar minha base tanto no desenvolvimento web quanto na manipulação e estruturação de dados.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,py,git,cs,obsidian,postgres,spring,sublime,vscode)](https://skillicons.dev)
+#### 🚀 Tecnologias e Ferramentas que utilizo:
+- **Linguagens & Web:** JavaScript, Python, HTML5 e CSS3
+- **Bancos de Dados:** SQL Server, MySQL, PostgreSQL e Firebird
+- **Ferramentas:** VS Code, Git e GitHub
 
+#### 🌱 O que estou fazendo agora:
+- 🔭 Desenvolvendo projetos pessoais para praticar lógica e integração com bancos de dados.
+- 📚 Aprofundando meus conhecimentos em JavaScript e Python.
+- 🤝 Aberto a colaborações em projetos de estudo e troca de experiências com outros devs.
 
-
+📫 **Vamos conversar?** [E-mail](mailto:developer.man@outlook.com)
 
 **Follow me on my social media:**
 
