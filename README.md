@@ -8,7 +8,7 @@ Além de programar, também atuo como instrutor de TI, ensinando habilidades tec
 <p>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,py,git,arch,cs,obsidian,php,postgres,spring,sublime,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,py,git,cs,obsidian,postgres,spring,sublime,vscode)](https://skillicons.dev)
 
 
 
