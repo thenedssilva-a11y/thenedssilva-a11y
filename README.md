@@ -9,6 +9,8 @@ Atualmente, estou focado em consolidar minha base tanto no desenvolvimento web q
 - **Bancos de Dados:** SQL Server, MySQL, PostgreSQL e Firebird
 - **Ferramentas:** VS Code, Git e GitHub
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,py,vscode,mysql,postgres)](https://skillicons.dev)
+
 #### 🌱 O que estou fazendo agora:
 - 🔭 Desenvolvendo projetos pessoais para praticar lógica e integração com bancos de dados.
 - 📚 Aprofundando meus conhecimentos em JavaScript e Python.
